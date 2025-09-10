@@ -54,7 +54,7 @@ Lainausmerkintä viitteellä. [^1]
 
 # Marko Muhonen
 #
-## Kiinnostuksen kohteita riittää, olen kiinnostunut monista eri asioista. Aika rajoittaa harrastuksia, mutta silti koitan jossain määrin ylläpitää harrastuksia ajanpuutteesta huolimatta. ICT alan työn vastapainoksi harrastuksiin kuuluu luonnossa liikkuminen, metsästys, erityisesti jousimetsästys. Olen jossain määrin valmistanut välineistöä ja tarvikkeita, mm. primitiivijousia ja nuolia. Lisäksi olen harrastanut teräaseiden takomista. Vastapainoksi harrastelen mm. elektroniikan, iot:n ja automaation parissa lähinnä taitojen ylläpitämiseksi. Yleensä näpertelen Arduino [^2]
+## Kiinnostuksen kohteita riittää, olen kiinnostunut monista eri asioista. Aika rajoittaa harrastuksia, mutta silti koitan jossain määrin ylläpitää harrastuksia ajanpuutteesta huolimatta. ICT alan työn vastapainoksi harrastuksiin kuuluu luonnossa liikkuminen, metsästys, erityisesti jousimetsästys. Olen jossain määrin valmistanut välineistöä ja tarvikkeita, mm. primitiivijousia ja nuolia. Lisäksi olen harrastanut teräaseiden takomista. Vastapainoksi harrastelen mm. elektroniikan, iot:n ja automaation parissa lähinnä taitojen ylläpitämiseksi. Yleensä näpertelen Arduino [^2] sukuisilla controllereilla ja Arduino IDE:llä.
 
 [^2]: https://en.wikipedia.org/wiki/Arduino
 
