@@ -41,14 +41,13 @@
 }
 ```
 
->lainaustekstiä
+>lainaustekstiä ## Lainaus: > merkinnällä
 
 Highlite koodille, tässä python
 ``` python
 print("Hello, World!")
 ```
 
-## Lainaus: > merkinnällä
 
 Lainausmerkintä viitteellä. [^1]
 
