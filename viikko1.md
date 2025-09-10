@@ -23,7 +23,7 @@
 [Github](https://github.com)
 
 ## Kuva: upota kuva (voit käyttää esim. netistä löytyvää kuvan URL:ia)
-![kuvateksti](https://net.centria.fi/wp-content/uploads/2025/06/Centria_tutkimuspaivat_2025-350x350.jpg)
+!kuvateksti](https://net.centria.fi/wp-content/uploads/2025/06/Centria_tutkimuspaivat_2025-350x350.jpg)
 
 ## Taulukko: vähintään 2 saraketta ja 3 riviä
 
