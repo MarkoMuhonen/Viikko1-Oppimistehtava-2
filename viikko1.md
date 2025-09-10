@@ -41,6 +41,7 @@
 }
 ```
 
+Highlite koodille, tässä python
 ``` python
 print("Hello, World!")
 ```
@@ -57,9 +58,16 @@ Lainausmerkintä viitteellä. [^1]
 
 # Marko Muhonen
 #
-## Kiinnostuksen kohteita riittää, olen kiinnostunut monista eri asioista. Aika rajoittaa harrastuksia, mutta silti koitan jossain määrin ylläpitää harrastuksia ajanpuutteesta huolimatta. ICT alan työn vastapainoksi harrastuksiin kuuluu luonnossa liikkuminen, metsästys, erityisesti jousimetsästys. Olen jossain määrin valmistanut välineistöä ja tarvikkeita, mm. primitiivijousia ja nuolia. Lisäksi olen harrastanut teräaseiden takomista. Vastapainoksi harrastelen mm. elektroniikan, iot:n ja automaation parissa lähinnä taitojen ylläpitämiseksi. Yleensä näpertelen Arduino [^2] sukuisilla controllereilla ja Arduino IDE:llä.
+## Kiinnostuksen kohteita riittää, olen kiinnostunut monista eri asioista. Aika rajoittaa harrastuksia, mutta silti koitan jossain määrin ylläpitää harrastuksia ajanpuutteesta huolimatta. ICT alan työn vastapainoksi harrastuksiin kuuluu luonnossa liikkuminen, metsästys, erityisesti jousimetsästys. Olen jossain määrin valmistanut välineistöä ja tarvikkeita, mm. primitiivijousia ja nuolia. Lisäksi olen harrastanut teräaseiden takomista. Vastapainoksi harrastelen mm. elektroniikan, iot:n ja automaation parissa lähinnä taitojen ylläpitämiseksi. Yleensä näpertelen Arduino [^2] sukuisilla controllereilla ja Arduino IDE:llä. Käyttöjärjestelmäosastolla käyttelen sujuvasti erilaisia, eksoottisempia kuten Linuxia olen käytellyt niistä ajoista kun perussetti meni vielä parille korpulle ja jossain kohtaa alkoi saada Slackware [^3] istribuutioita, kokemusta myös FreeBSD:stä [^4], Solariksesta [^5], HP-UX:stä [^6] ja jopa jonkin verran OS2 [^7] ja VMS (VAX) [^8] käyttöjärjestelmstä. 
 
 [^2]: https://en.wikipedia.org/wiki/Arduino
+[^3]: http://www.slackware.com/
+[^4]: https://www.freebsd.org/
+[^5]: https://fi.wikipedia.org/wiki/Oracle_Solaris
+[^6]: https://fi.wikipedia.org/wiki/HP-UX
+[^7]: https://fi.wikipedia.org/wiki/OS/2
+[^8]: https://fi.wikipedia.org/wiki/VAX
+
 
 
 
