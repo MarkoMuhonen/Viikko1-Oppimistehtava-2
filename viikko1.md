@@ -27,10 +27,10 @@
 
 ## Taulukko: vähintään 2 saraketta ja 3 riviä
 
-| Sarake1 | Sarake2 | Sarake3 | Sarake4 
+| Sarake1 | Sarake2 | Sarake3 | Sarake4 |
 | ----------- | ----------- | ----------- | ----------- |
 | asdasda | adasd | ----------- | ----------- |
-| adad | adasdasd|asdsdf|asdsdf
+| adad | adasdasd|asdsdf|asdsdf|
 
 ## Koodilohko: kolmella heittomerkkillä (```) merkittynä
 
@@ -52,4 +52,10 @@ Lainausmerkintä viitteellä. [^1]
 
 ----
 
-eroteltu teksti
+
+# Marko Muhonen
+#
+## Kiinnostuksen kohteita riittää, olen kiinnostunut monista eri asioista. Aika rajoittaa harrastuksia, mutta silti koitan jossain määrin ylläpitää harrastuksia ajanpuutteesta huolimatta.
+## ICT alan työn vastapainoksi harrastuksiin kuuluu luonnossa liikkuminen, metsästys, erityisesti jousimetsästys. Olen jossain määrin valmistanut välineistöä ja tarvikkeita. Lisäksi olen harrastanut teräaseiden takomista. Vastapainoksi harrastelen mm. elektroniikan, iot:n ja automaation parissa lähinnä taitojen ylläpitämiseksi.
+
+
