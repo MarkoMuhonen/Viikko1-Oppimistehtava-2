@@ -34,13 +34,16 @@
 
 ## Koodilohko: kolmella heittomerkkillä (```) merkittynä
 
-´´´
+```
 {
     kood
     kood
 }
-´´´
+```
 
+``` python
+print("Hello, World!")
+```
 
 ## Lainaus: > merkinnällä
 
